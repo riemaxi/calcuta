@@ -22,7 +22,7 @@ host: http://46.30.213.202
 description: concat two strings
 author: crue4crue
 
-usage host/math/algebra/string/sum/world
+usage host/math/algebra/string/sum/hello/world
 
 with response:
 1\nhello\nworld
